@@ -21,8 +21,7 @@ public class data_output_class_exercise {
         System.out.printf("%s, which price is US$ %.2f%n\n", product2, price2);
         System.out.printf("Record: %d years old, code %d and gender: %c%n\n", age, code, gender);
         System.out.printf("Measue with eight decimal places: %f%n", measure);
-        System.out.printf("Rouded (three decimal places): %.3f%n", measure);
-        
+        System.out.printf("Rouded (three decimal places): %.3f%n", measure);     
 	}
 
 }
